@@ -5,12 +5,9 @@ class Solution {
        Set<Character> set = new HashSet<>();
 
        for (int i = 0; i < s.length() - 2; i++) {
-        set.add(s.charAt(i));
-        set.add(s.charAt(i+1));
-        set.add(s.charAt(i+2));
-
-        if (set.size() == 3) count++;
-        set.clear();
+        if (s.charAt(i) != s.charAt(i+1) && s.charAt(i) != s.charAt(i+2) && s.charAt(i+1) != s.charAt(i+2)) {
+            count++;
+        }
        }
        
        return count;
