@@ -8,7 +8,6 @@ class Solution {
             currSum += nums[r];
             if (currSum >= target) {
                 result = Math.min(result, r-l+1);
-                System.out.println(currSum + " log1 " + result);
                 while (currSum >= target) {
                     currSum -= nums[l];
                     l++;
