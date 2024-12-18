@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/valahdyo404/grinding-lc/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/valahdyo404/grinding-lc/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/valahdyo404/grinding-lc/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/valahdyo404/grinding-lc/tree/master/0643-maximum-average-subarray-i) |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/valahdyo404/grinding-lc/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/valahdyo404/grinding-lc/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/valahdyo404/grinding-lc/tree/master/0567-permutation-in-string) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/valahdyo404/grinding-lc/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -26,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/valahdyo404/grinding-lc/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/valahdyo404/grinding-lc/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/valahdyo404/grinding-lc/tree/master/0567-permutation-in-string) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/valahdyo404/grinding-lc/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
