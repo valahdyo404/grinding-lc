@@ -1,24 +1,21 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-        List<Integer> result = new ArrayList();
-        Deque<Integer> arrDeque = new ArrayDeque();
-
-        int start = 0;
-        for (int end = 0; end < nums.length; end++) {
-            while (!arrDeque.isEmpty() && nums[end] > nums[arrDeque.peekLast()]) {
-                arrDeque.removeLast();
+        Deque<Integer> q = new ArrayDeque<>();  // stores *indices*
+        List<Integer> res = new ArrayList<>();
+        for (int i = 0; i < nums.length; i++) {
+            while (!q.isEmpty() && nums[q.getLast()] <= nums[i]) {
+                q.removeLast();
             }
-            arrDeque.add(end);
-   
-            if (start > arrDeque.peek()) {
-                arrDeque.remove();
+            q.addLast(i);
+            // remove first element if it's outside the window
+            if (q.getFirst() == i - k) {
+                q.removeFirst();
             }
-
-            if (end - start + 1 >= k) {
-                result.add(nums[arrDeque.peek()]);
-                start++;
+            // if window has k elements add to results (first k-1 windows have < k elements because we start from empty window and add 1 element each iteration)
+            if (i >= k - 1) {
+                res.add(nums[q.peek()]);
             }
         }
-        return result.stream().mapToInt(i->i).toArray(); 
+        return res.stream().mapToInt(i->i).toArray();            
     }
 }
