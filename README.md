@@ -40,11 +40,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/valahdyo404/grinding-lc/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/valahdyo404/grinding-lc/tree/master/0567-permutation-in-string) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/valahdyo404/grinding-lc/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0874-backspace-string-compare](https://github.com/valahdyo404/grinding-lc/tree/master/0874-backspace-string-compare) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/valahdyo404/grinding-lc/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/valahdyo404/grinding-lc/tree/master/0567-permutation-in-string) |
+| [0874-backspace-string-compare](https://github.com/valahdyo404/grinding-lc/tree/master/0874-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,4 +75,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/valahdyo404/grinding-lc/tree/master/0239-sliding-window-maximum) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/valahdyo404/grinding-lc/tree/master/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/valahdyo404/grinding-lc/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
