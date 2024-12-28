@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/valahdyo404/grinding-lc/tree/master/0015-3sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/valahdyo404/grinding-lc/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/valahdyo404/grinding-lc/tree/master/0643-maximum-average-subarray-i) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/valahdyo404/grinding-lc/tree/master/0015-3sum) |
 | [0567-permutation-in-string](https://github.com/valahdyo404/grinding-lc/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/valahdyo404/grinding-lc/tree/master/0874-backspace-string-compare) |
 ## Dynamic Programming
@@ -83,4 +85,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/valahdyo404/grinding-lc/tree/master/0874-backspace-string-compare) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/valahdyo404/grinding-lc/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
