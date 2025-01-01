@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/valahdyo404/grinding-lc/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/valahdyo404/grinding-lc/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/valahdyo404/grinding-lc/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0209-minimum-size-subarray-sum) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/valahdyo404/grinding-lc/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/valahdyo404/grinding-lc/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/valahdyo404/grinding-lc/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/valahdyo404/grinding-lc/tree/master/0567-permutation-in-string) |
@@ -92,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/valahdyo404/grinding-lc/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/valahdyo404/grinding-lc/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/valahdyo404/grinding-lc/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
