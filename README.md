@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/valahdyo404/grinding-lc/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/valahdyo404/grinding-lc/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/valahdyo404/grinding-lc/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/valahdyo404/grinding-lc/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/valahdyo404/grinding-lc/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/valahdyo404/grinding-lc/tree/master/0239-sliding-window-maximum) |
@@ -56,12 +57,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/valahdyo404/grinding-lc/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/valahdyo404/grinding-lc/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/valahdyo404/grinding-lc/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/valahdyo404/grinding-lc/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/valahdyo404/grinding-lc/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/valahdyo404/grinding-lc/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/valahdyo404/grinding-lc/tree/master/0874-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/valahdyo404/grinding-lc/tree/master/0042-trapping-rain-water) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/valahdyo404/grinding-lc/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 ## Counting
 |  |
@@ -92,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/valahdyo404/grinding-lc/tree/master/0042-trapping-rain-water) |
 | [0874-backspace-string-compare](https://github.com/valahdyo404/grinding-lc/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
@@ -107,4 +111,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/valahdyo404/grinding-lc/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/valahdyo404/grinding-lc/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
