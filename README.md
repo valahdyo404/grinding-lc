@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/valahdyo404/grinding-lc/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/valahdyo404/grinding-lc/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/valahdyo404/grinding-lc/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/valahdyo404/grinding-lc/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/valahdyo404/grinding-lc/tree/master/0239-sliding-window-maximum) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/valahdyo404/grinding-lc/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/valahdyo404/grinding-lc/tree/master/0046-permutations) |
 ## Math
 |  |
 | ------- |
