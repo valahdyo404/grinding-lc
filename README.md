@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/valahdyo404/grinding-lc/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/valahdyo404/grinding-lc/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/valahdyo404/grinding-lc/tree/master/0077-combinations) |
 ## Math
 |  |
 | ------- |
