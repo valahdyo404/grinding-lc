@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/valahdyo404/grinding-lc/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/valahdyo404/grinding-lc/tree/master/0239-sliding-window-maximum) |
+| [0494-target-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0494-target-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/valahdyo404/grinding-lc/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/valahdyo404/grinding-lc/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/valahdyo404/grinding-lc/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/valahdyo404/grinding-lc/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/valahdyo404/grinding-lc/tree/master/0070-climbing-stairs) |
+| [0494-target-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0494-target-sum) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/valahdyo404/grinding-lc/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 ## Counting
 |  |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/valahdyo404/grinding-lc/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/valahdyo404/grinding-lc/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/valahdyo404/grinding-lc/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0494-target-sum) |
 ## Math
 |  |
 | ------- |
