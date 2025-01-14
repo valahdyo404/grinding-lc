@@ -1,20 +1,31 @@
 public class Solution {
+    private static Map<String, Integer> memo;
+
     public int findTargetSumWays(int[] nums, int s) {
-        int sum = 0; 
-        for(int i: nums) sum+=i;
-        if(s>sum || s<-sum) return 0;
-        int[] dp = new int[2*sum+1];
-        dp[0+sum] = 1;
-        for(int i = 0; i<nums.length; i++){
-            int[] next = new int[2*sum+1];
-            for(int k = 0; k<2*sum+1; k++){
-                if(dp[k]!=0){
-                    next[k + nums[i]] += dp[k];
-                    next[k - nums[i]] += dp[k];
-                }
-            }
-            dp = next;
+        memo = new HashMap<>();
+        return backtrack(nums, s, 0);
+    }
+
+    private static int backtrack(int[] nums, int s, int index) {
+        String curSerial = serialize(index, s);
+
+        if (memo.containsKey(curSerial)){
+            return memo.get(curSerial);
         }
-        return dp[sum+s];
+
+        if (index == nums.length) {
+            if (s == 0) return 1;
+            return 0;
+        }
+
+        int ifMinus = backtrack(nums, s - nums[index], index+1);
+        int ifPlus = backtrack(nums, s + nums[index], index+1);
+
+        int numWays = ifMinus + ifPlus;
+        memo.put(curSerial, numWays);
+        return numWays;
+    }
+    private static String serialize(int index, int targetSum) {
+        return index + "," + targetSum;
     }
 }
