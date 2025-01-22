@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0494-target-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/valahdyo404/grinding-lc/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/valahdyo404/grinding-lc/tree/master/0713-subarray-product-less-than-k) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/valahdyo404/grinding-lc/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/valahdyo404/grinding-lc/tree/master/0713-subarray-product-less-than-k) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/valahdyo404/grinding-lc/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
