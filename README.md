@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/valahdyo404/grinding-lc/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/valahdyo404/grinding-lc/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/valahdyo404/grinding-lc/tree/master/0278-first-bad-version) |
 | [0713-subarray-product-less-than-k](https://github.com/valahdyo404/grinding-lc/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/valahdyo404/grinding-lc/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/valahdyo404/grinding-lc/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -168,4 +169,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/valahdyo404/grinding-lc/tree/master/0037-sudoku-solver) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/valahdyo404/grinding-lc/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
