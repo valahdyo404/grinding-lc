@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/valahdyo404/grinding-lc/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/valahdyo404/grinding-lc/tree/master/0239-sliding-window-maximum) |
+| [0327-count-of-range-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0327-count-of-range-sum) |
 | [0494-target-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0494-target-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/valahdyo404/grinding-lc/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/valahdyo404/grinding-lc/tree/master/0713-subarray-product-less-than-k) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/valahdyo404/grinding-lc/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/valahdyo404/grinding-lc/tree/master/0278-first-bad-version) |
+| [0327-count-of-range-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0327-count-of-range-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/valahdyo404/grinding-lc/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/valahdyo404/grinding-lc/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/valahdyo404/grinding-lc/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -180,4 +182,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/valahdyo404/grinding-lc/tree/master/0278-first-bad-version) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0327-count-of-range-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/valahdyo404/grinding-lc/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
