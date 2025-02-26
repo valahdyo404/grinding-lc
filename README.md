@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/valahdyo404/grinding-lc/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/valahdyo404/grinding-lc/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/valahdyo404/grinding-lc/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/valahdyo404/grinding-lc/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/valahdyo404/grinding-lc/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/valahdyo404/grinding-lc/tree/master/0424-longest-repeating-character-replacement) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/valahdyo404/grinding-lc/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/valahdyo404/grinding-lc/tree/master/0042-trapping-rain-water) |
 | [0874-backspace-string-compare](https://github.com/valahdyo404/grinding-lc/tree/master/0874-backspace-string-compare) |
 ## Simulation
